@@ -87,23 +87,23 @@
 
   不会涉及很多基本语法介绍，主要是一些实现原理以及关键特性。
 
-- [Java 容器](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Java%20容器.md)
+- [Java 容器](https://github.com/wutongke/InnterviewNotes/blob/master/notes/Java%20容器.md)
 
   源码分析：ArrayList、Vector、CopyOnWriteArrayList、LinkedList、HashMap、ConcurrentHashMap、LinkedHashMap、WeekHashMap。
 
-- [Java 并发](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Java%20并发.md)
+- [Java 并发](https://github.com/wutongke/InnterviewNotes/blob/master/notes/Java%20并发.md)
 
   线程使用方式、两种互斥同步方法、线程协作、JUC、线程安全、内存模型、锁优化。
 
-- [Java 虚拟机](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Java%20虚拟机.md)
+- [Java 虚拟机](https://github.com/wutongke/InnterviewNotes/blob/master/notes/Java%20虚拟机.md)
 
   运行时数据区域、垃圾收集、类加载。
 
-- [Java I/O](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Java%20IO.md)
+- [Java I/O](https://github.com/wutongke/InnterviewNotes/blob/master/notes/Java%20IO.md)
 
   NIO 的原理以及实例。
   
-- [Android]((https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Android.md)
+- [Android]((https://github.com/wutongke/InnterviewNotes/blob/master/notes/Android.md)
 
   Android
 
